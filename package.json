@@ -1,0 +1,19 @@
+{
+  "name": "jscoin",
+  "version": "1.0.0",
+  "description": "JS implementations of blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briankostar/jscoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briankostar/jscoin/issues"
+  },
+  "homepage": "https://github.com/briankostar/jscoin#readme"
+}
