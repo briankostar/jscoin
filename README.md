@@ -1,2 +1,4 @@
 # jscoin
-JS implementations of blockchain
+
+Collection of JS implementations of blockchain
+
